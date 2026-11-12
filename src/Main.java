@@ -103,4 +103,29 @@ void exercise6() {
 
 void exercise7() {
 
+    // VII. Create a program in which you declare variables (of the smallest possible types)
+    //    that can store the following literals:
+    //     - 124
+    //     - 7
+    //     - 7d
+    //     - 7l
+    //     - 7f
+    //     - 13.6
+    //     - .3
+    //     - false
+    //     - 'b'
+    //     - 0xFF
+    //     - 3000000000l
+
+    byte var1 = 124;
+    byte var2 = 7;
+    double var3 = 7d;
+    long var4 = 7L;
+    float var5 = 7f;
+    float var6 = 13.6F;
+    float var7 = .3F;
+    boolean var8 = false;
+    char var9 = 'b';
+    int var10 = 0xFF;
+    long var11 = 3000000000L;
 }
