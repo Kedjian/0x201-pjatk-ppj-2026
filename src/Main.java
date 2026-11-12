@@ -100,3 +100,7 @@ void exercise6() {
     int wrt;
     wrt = 13;
 }
+
+void exercise7() {
+
+}
